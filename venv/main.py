@@ -30,3 +30,5 @@ def todos :
             case 'exit' :
                 break
 print ('bye!')
+
+print('git is usefull ')
